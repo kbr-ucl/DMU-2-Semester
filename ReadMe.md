@@ -18,3 +18,5 @@ Dette repository indeholder noter og opgaver til 2. semester på DMU.
 ### Opgaver
 - [Øvelser og opgaver til OOP i C#](./Opgaver/OOP/Øvelser-og-opgaver-til-OOP-i-C#.md)
 - [SOLID - 01 Refactoring opgave](./Opgaver/SOLID/01-Refactoring-opgave.md)
+- [Lægehuset DK](Opgaver\OOP\Lægehuset-dk\Lægehuset-dk.md) 
+  -  [Lægehuset-dk-opgave-01.md](Opgaver\OOP\Lægehuset-dk\Delopgaver\Lægehuset-dk-opgave-01.md) 
