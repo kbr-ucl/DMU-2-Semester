@@ -14,6 +14,13 @@ Dette repository indeholder noter og opgaver til 2. semester på DMU.
   -  [Lægehuset-dk-opgave-01.md](./Semesterprojekt/Delopgaver/Lægehuset-dk-opgave-01.md) 
 
 ### Opgaver
+
+#### OOP
 - [Øvelser og opgaver til OOP i C#](./Opgaver/OOP/Øvelser-og-opgaver-til-OOP-i-C#.md)
-- [SOLID - 01 Refactoring opgave](./Opgaver/SOLID/01-Refactoring-opgave.md)
+
+#### SOLID
+- [01 Refactoring opgave](./Opgaver/SOLID/01-Refactoring-opgave.md)
+- Case - EjendomBeregner
+  - [01-Egendomsberegner - Single Responsibility refactoring](./Opgaver/SOLID/Case-EjendomBeregner/01-Egendomsberegner-Single-Responsibility-refactoring.md)
+  - [02-Egendomsberegner - Interface og IoC refactoring](./Opgaver/SOLID/Case-EjendomBeregner/02-Egendomsberegner-Interface-og-IoC.md)
 
