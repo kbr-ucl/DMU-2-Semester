@@ -9,4 +9,4 @@ Dette repository indeholder noter og opgaver til 2. semester på DMU.
 ### Opgaver
 #### Programmering
 -  [Lægehuset-dk-opgave-01.md](./Semesterprojekt/Delopgaver/Lægehuset-dk-opgave-01.md) 
-
+-  [Lægehuset-dk-opgave-02.md](./Semesterprojekt/Delopgaver/Lægehuset-dk-opgave-02.md) 
